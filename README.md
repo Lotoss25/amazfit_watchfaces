@@ -14,3 +14,5 @@
 5. Nothing_watch_by_Lotoss_v2
 <img width="1060" height="575" alt="QRCode_Nothing_watch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/fe3313c9-6e83-420b-af4f-79e8e5357159" />
 
+6. Permawatch_by_Lotoss_v2
+<img width="980" height="535" alt="QRCode_Permawatch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/f31630a7-6ff7-4f22-9573-8f88d34d8528" />
