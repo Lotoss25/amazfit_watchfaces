@@ -15,5 +15,4 @@
 <img width="1060" height="575" alt="QRCode_Nothing_watch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/fe3313c9-6e83-420b-af4f-79e8e5357159" />
 
 6. Permawatch_by_Lotoss_v2
-<img width="980" height="535" alt="QRCode_Permawatch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/acee16bd-a141-4a06-8515-0cf09137d5a5" />
-
+<img width="980" height="535" alt="QRCode_Permawatch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/7e85f071-17c6-47f3-87f8-608e7df498d1" />
