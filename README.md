@@ -9,4 +9,5 @@
 <img width="1060" height="575" alt="QRCode_Nothing_watchface_without_name_v1" src="https://github.com/user-attachments/assets/583c8b16-2246-458f-b0eb-a181660ece98" />
 
 4. Nothing_watch_by_Lotoss_v2
-<img width="1060" height="575" alt="QRCode_Nothing_watch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/784e93cd-03d4-4a8e-a525-bb53f7523dff" />
+<img width="1060" height="575" alt="QRCode_Nothing_watch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/fe3313c9-6e83-420b-af4f-79e8e5357159" />
+
