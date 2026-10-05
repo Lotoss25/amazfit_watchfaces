@@ -12,7 +12,8 @@
 <img width="1060" height="575" alt="QRCode_Nothing_watchface_without_name_v2_v1" src="https://github.com/user-attachments/assets/a68777fc-2587-4efc-985b-ff25624bfed8" />
 
 5. Nothing_watch_by_Lotoss_v2
-<img width="1060" height="575" alt="QRCode_Nothing_watch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/fe3313c9-6e83-420b-af4f-79e8e5357159" />
+<img width="1060" height="575" alt="QRCode_Nothing_watch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/dfa05a15-d1eb-4895-a7f1-0aa7999750f9" />
 
 6. Permawatch_by_Lotoss_v2
 <img width="980" height="535" alt="QRCode_Permawatch_by_Lotoss_v2_v1" src="https://github.com/user-attachments/assets/7e85f071-17c6-47f3-87f8-608e7df498d1" />
+
